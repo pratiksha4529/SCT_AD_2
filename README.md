@@ -24,6 +24,9 @@ Material Design Components
 
 📸 Screenshot
 
+<img width="540" height="1169" alt="image" src="https://github.com/user-attachments/assets/62e7b0a9-178a-41cc-afe5-f9ca2d3999ad" />
+
+
 
 
 APK Download (Github Release)
