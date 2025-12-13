@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_all" android:title="All" android:icon="@android:drawable/ic_menu_sort_by_size"/>
+        <item android:id="@+id/nav_work" android:title="Work" android:icon="@android:drawable/ic_menu_agenda"/>
+        <item android:id="@+id/nav_personal" android:title="Personal" android:icon="@android:drawable/ic_menu_my_calendar"/>
+        <item android:id="@+id/nav_wishlist" android:title="Wishlist" android:icon="@android:drawable/ic_menu_view"/>
+        <item android:id="@+id/nav_birthday" android:title="Birthday" android:icon="@android:drawable/ic_menu_day"/>
+    </group>
+</menu>
