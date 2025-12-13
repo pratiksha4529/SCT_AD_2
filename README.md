@@ -19,7 +19,7 @@ Task 2: To-Do List App (Android Development)
 - Material Design Components
 
 ## 📸 Screenshot
-[https://github.com/pratiksha4529/SCT_AD_3/blob/main/Screenshot.jpg]
+[https://github.com/pratiksha4529/SCT_AD_2/blob/main/Screenshot.jpg]
 
 ## APK Download (Github Release)
 Download APK: [https://github.com/pratiksha4529/SCT_AD_2/releases/download/v1.0/app-release.apk]
